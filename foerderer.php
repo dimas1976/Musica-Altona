@@ -42,7 +42,7 @@ get_header();
                                 BürgerStiftung Hamburg
                             </div>
                             <div class="col-md-6 bsh-logo">
-                                <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/bsh.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-BürgerStiftung Hamburg">
+                                <a href="http://www.buergerstiftung-hamburg.de/" title="zu Bürgerstiftung Hamburg" target="_blank"><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/bsh.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-BürgerStiftung Hamburg"></a>
                             </div>
                         </div>
                     </div>
@@ -54,27 +54,27 @@ get_header();
         <div class="container mb-5">
             <div class="row">
                 <div class="col-6 pb-4 col-md-3" data-aos="zoom-in">
-                    <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/b.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Jürgen & Monika Blankenburg Stiftung">
+                    <a href="https://www.deutsches-stiftungszentrum.de/stiftungen/j%C3%BCrgen-und-monika-blankenburg-stiftung" target="_blank" title="Zu Jürgen und Monika Blankenburg Stiftung"><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/b.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Jürgen & Monika Blankenburg Stiftung"></a>
                 </div>
                 <div class="col-6 pb-4 col-md-3" data-aos="zoom-in">
-                    <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/buhi.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Budnianer Hilfe e.V">
+                    <a href="http://www.budnianer-hilfe.de/" title="zu Budnianer Hilfe e.V." target="_blank"><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/buhi.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Budnianer Hilfe e.V"></a>
                 </div>
                 <div class="col-6 pb-4 col-md-3" data-aos="zoom-in">
-                    <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/cello.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-cello & co">
+                    <a href="http://www.celloundco.de/" target="_blank" title="zu Cello & Co."><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/cello.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-cello & co"></a>
                 </div>
                 <div class="col-6 pb-4 col-md-3" data-aos="zoom-in">
-                    <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/esche.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Die Esche in Hamburg Altona">
+                    <a href="https://esche.eu/" title="zu die Esche in Hamburg Altona" target="_blank"><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/esche.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Die Esche in Hamburg Altona"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="col-6 pb-4 col-md-4" data-aos="zoom-in">
-                    <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/ida.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Ida Ehre Kulturverein e.V.">
+                    <a href="http://www.ida-ehre-kulturverein.de/" target="_blank" title="zu Ida Ehre Kulturverein e.V."><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/ida.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Ida Ehre Kulturverein e.V."></a>
                 </div>
                 <div class="col-6 pb-4 col-md-4" data-aos="zoom-in">
-                    <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/ikw.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Deutsche Telekom Stiftung">
+                    <a href="https://www.telekom-stiftung.de/" title="zu Deutsche Telekom Stiftung"><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/ikw.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Deutsche Telekom Stiftung"></a>
                 </div>
                 <div class="col-6 pb-4 col-md-4" data-aos="zoom-in">
-                    <img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/kinderjahre.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Stiftung Kinderjahre">
+                    <a href="http://stiftung-kinderjahre.de/" title="zu Stiftung Kinderjahre" target="_blank"><img class="img-fluid lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/logos/kinderjahre.jpg" alt="Wir bedanken uns bei nachfolgenden Förderern-Stiftung Kinderjahre"></a>
                 </div>
             </div>
         </div>

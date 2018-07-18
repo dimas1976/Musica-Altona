@@ -48,7 +48,7 @@ get_header();
                         Vereinsorganisation schlank.
                     </span>
                     </p>
-                    <a class="btn btn-primary" href="./about" role="button">ÜBER UNS</a>
+                    <a class="btn btn-primary" href="./bewaehrtes-konzept-musizieren-in-der-gruppe-macht-stark/" role="button">ÜBER UNS</a>
                 </div>
                 <div class="col-md-5 start-img" data-aos="fade-left">
                     <img data-src="<?= get_bloginfo("template_url"); ?>/img/start_kids/start_kids.jpg" class="img-fluid lazyload" alt="Trommeln">
@@ -79,23 +79,23 @@ get_header();
                     <ul>
                         <li>
                             <i class="fas fa-music"></i> Altonaer Tastenspaß am Klavier
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> The Junior Drummers (Trommeln)
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> Altonaer Geigensterne
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> Cello
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> KRASS BRASS - Blasinstrumente
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -103,28 +103,28 @@ get_header();
                     <ul>
                         <li>
                             <i class="fas fa-music"></i> Saz
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> Keyboard
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> Altonaer Gitarren und Band
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> Altona Laut (Schlagzeug)
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> Rollender Musikkoffer
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                         <li>
                             <i class="fas fa-music"></i> Trommeln, Gumboots und <br>
                             Recycling Groove Workshops
-                            <a href="./kurse" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
+                            <a href="./unsere-kurse/" title="Link zu den Kursen"><i class="fas fa-chevron-circle-right"></i></a>
                         </li>
                     </ul>
                 </div>

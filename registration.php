@@ -9,7 +9,7 @@ get_header(); ?>
     <div class="credit">Foto: &copy; Cem Renkligül</div>
 </div>
 <section id="registration-articles">
-    <div class="container pt-3 pt-md-5">
+    <div class="container pt-3 pt-md-5 pb-md-5">
         <div class="row pb-4">
             <div class="col-12 text-center text-md-left" data-aos="zoom-in">
                 <h1>Wenn ihr mit anderen gemeinsam musizieren möchtet, solltet ihr überlegen, welches Angebot euch interessiert und dann</h1>
@@ -68,17 +68,17 @@ get_header(); ?>
         </div>
     </div>
 </section>
-<div id="registration-download">
+<!--<div id="registration-download">
     <div class="container pt-3 pb-md-5">
         <div class="row">
             <div class="col-md-6"  data-aos="fade-up">
-                <a href="<?= get_bloginfo("template_url"); ?>/formulare/Anmeldevertrag_Stand_Juni2014.pdf"><i class="fas fa-download"></i> Anmeldebogen runterladen </a>
+                <a href="<?/*= get_bloginfo("template_url"); */?>/formulare/Anmeldevertrag_Stand_Juni2014.pdf"><i class="fas fa-download"></i> Anmeldebogen runterladen </a>
             </div>
             <div class="col-md-6"  data-aos="fade-up">
-                <a href="<?= get_bloginfo("template_url"); ?>/formulare/SEPA-Formular_Stand_Juni_2014.pdf"><i class="fas fa-download"></i> Erteilung einer SEPA-Basislastschrift runterladen</a>
+                <a href="<?/*= get_bloginfo("template_url"); */?>/formulare/SEPA-Formular_Stand_Juni_2014.pdf"><i class="fas fa-download"></i> Erteilung einer SEPA-Basislastschrift runterladen</a>
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <?php get_footer();?>

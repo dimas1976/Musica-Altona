@@ -43,12 +43,14 @@ get_header();
                 </p>
 
                 <h2 class="mb-0">Realisierung der Webseite</h2>
-                <p class="pb-md-5">
+                <p>
                     Dimitri Kogan <br>
-                    <a href="mailto:kogan.dmitriy@gmail.com">kogan.dmitriy@gmail.com</a>
+                    <a href="mailto:dmitriy.kogan@di-ko.com">dmitriy.kogan@di-ko.com</a>
                 </p>
-
-
+                <h2 class="mb-0">Logo Kreationen und das Schriftdesign</h2>
+                <p class="pb-md-5">
+                    Anri Coza <br>
+                </p>
             </div>
         </div>
     </div>

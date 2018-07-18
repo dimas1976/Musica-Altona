@@ -16,7 +16,7 @@ get_header();
                 <p class="pb-3" data-aos="zoom-in-up">
                     Mit dem 'Rollenden Musikkoffer', der ganzjährig durch die Kitas des Stadtteils zieht, erleben die ganz Kleinen ein lebendiges Programm der musikalischen Früherziehung. Bereits hier wird das Prinzip des Gruppenunterrichts gepflegt, der sich dann für Kinder ab dem ersten Schuljahr in den Instrumental- und natürlich auch Orchestergruppen fortsetzt. Unter der Leitung von erfahrenen Dozenten und Musikpädagogen treffen sich die SchülerInnen in Altonaer Schulen und anderen Einrichtungen. Auf einen einzigen Musikstil müssen sich die inzwischen über 300 NachwuchsmusikerInnen nicht festlegen, denn bei        Musica Altona wird in verschiedenen Gruppen »crossover« musiziert : von Schlagzeug, Blasinstrumenten, Klavier, Keyboard, afrikanischen Trommeln über, Saz und Gitarre bis zur klassischen Geige und Cello.
                 </p>
-                <a class="btn btn-primary" href="./kurse" role="button" data-aos="fade-right">ZU DEN KURSEN</a>
+                <a class="btn btn-primary" href="./unsere-kurse/" role="button" data-aos="fade-right">ZU DEN KURSEN</a>
             </div>
         </div>
         <div class="row pb-5">

@@ -174,7 +174,7 @@ get_header(); ?>
                 <div class="card mb-3 mb-md-0" data-aos="flip-right">
                     <picture>
                         <source media="(min-width:1200px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/schlagzeug/schlagzeug_xl.jpg 3.5x">
-                        <source media="(min-width:992px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/schlagzeug/schlagzeug_lg.jpg 3x">
+                        <source media="(min-width:992px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/schlagzeug/schlagzeug_xl.jpg 3x">
                         <source media="(min-width:768px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/schlagzeug/schlagzeug_md.jpg 2x">
                         <source media="(min-width:576px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/schlagzeug/schlagzeug_sm.jpg 1x">
                         <source data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/schlagzeug/schlagzeug_xs.jpg">
@@ -199,7 +199,7 @@ get_header(); ?>
                         <source media="(min-width:1200px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/gumboots/gumboots_350w.jpg">
                         <source media="(min-width:992px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/gumboots/gumboots_290w.jpg">
                         <source media="(min-width:768px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/gumboots/gumboots_290w.jpg">
-                        <source media="(min-width:576px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/gumboots/gumboots_290.jpg">
+                        <source media="(min-width:576px)" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/gumboots/gumboots_290w.jpg">
                         <source data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/gumboots/gumboots_290w.jpg">
                         <img class="card-img-top lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/gumboots/gumboots_290w.jpg"  alt="Unsere Kurse-Gumboots">
                     </picture>

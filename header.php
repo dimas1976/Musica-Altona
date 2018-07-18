@@ -3,12 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Kinder fördern durch Musik. Musica Altona ist eine Plattform für sozialen und künstlerischen Austausch in einer multikulturellen Stadt.">
-    <meta name="keywords" content="">
     <meta name="google-site-verification" content="XjWoRvRlOGLeyuCZYuXlQ0jyk7M6cLoCGi_br_KF1Vs">
     <meta name="allow-search" content="YES">
     <meta name="" http-equiv="expires" content="0">
-    <meta name="ROBOTS" content="index, follow">
     <meta name="revisit-after" content="3 days">
     <meta name="audience" content="All">
     <meta name="content-language" content="DE">

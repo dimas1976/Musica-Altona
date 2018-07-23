@@ -39,7 +39,7 @@ get_header();
                         <div class="card-body" data-aos="fade-up">
                             <h5 class="card-title">Patricia Renz</h5>
                             <p class="card-text">
-                                Beruflich tätig als Musiklehrerin an der Schule Lämmersieth und Gründungsmitglied. Tätigkeitsfeld: ehrenamtliche Vereins-Vorsitzende, Fundraising und Antragstellung, Eltern- und Dozentenberatung, Koordination, Konzept-Arbeit.
+                                Schulleiterin der Louise-Schröder Schule und Gründungsmitglied. Tätigkeitsfeld: ehrenamtliche Vereins-Vorsitzende, Fundraising und Antragstellung, Eltern- und Dozentenberatung, Koordination, Konzept-Arbeit.
                             </p>
                         </div>
                     </div>
@@ -57,7 +57,7 @@ get_header();
                         <div class="card-body" data-aos="fade-up">
                             <h5 class="card-title">Marion Wolf-Dietrich</h5>
                             <p class="card-text">
-                                Erzieherin und Leiterin der Kita Elbkinder Hospitalstrasse im August Lütgens Park, jetzt im Ruhestand. Mitgründerin des Vereins und ehrenamtliches Mitglied im Vorstand. Tätigkeitsfeld: Programme musikalischer Grundbildung für Kleinkinder und Vorschüler, Koordination des Angebots "Musikalischer Koffer", Beratung und Vernetzung des Vereins im Stadtteil, Veranstaltungen des Vereins, Kontakte zu Förderinstitutionen und dem Bezirk.
+                                Erzieherin und Leiterin einer Elbkinder Kita in Altona - jetzt im Ruhestand. Mitgründerin des Vereins und ehrenamtliches Mitglied im Vorstand. Tätigkeitsfeld: Programme musikalischer Grundbildung für Kleinkinder und Vorschüler, Koordination des Angebots "Musikalischer Koffer", Beratung und Vernetzung des Vereins im Stadtteil, Veranstaltungen des Vereins, Kontakte zu Förderinstitutionen und dem Bezirk.
                             </p>
                         </div>
                     </div>

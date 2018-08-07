@@ -232,6 +232,24 @@ get_header(); ?>
                     </div>
                 </div>
             </div>
+            <div class="col-sm-12 col-md-4">
+                <div class="card mb-3 mb-md-0" data-aos="flip-right">
+                        <img class="card-img-top lazyload" data-srcset="<?= get_bloginfo("template_url"); ?>/img/kurse/bratsche/bratsche_288w.jpg 768w,
+                                          <?= get_bloginfo("template_url"); ?>/img/kurse/bratsche/bratsche_208w.jpg 992w,
+                                          <?= get_bloginfo("template_url"); ?>/img/kurse/bratsche/bratsche_288w.jpg 1200w,
+                                          <?= get_bloginfo("template_url"); ?>/img/kurse/bratsche/bratsche_348w.jpg 3200w"
+                                          sizes="(max-width: 1200px) 1vw, 100vw"
+                                          data-src="<?= get_bloginfo("template_url"); ?>/img/kurse/bratsche/bratsche_348w.jpg"  alt="Bratsche-Kurs">
+                    <div class="credit">Foto: &copy; Cem Renkligül</div>
+                    <div class="card-body">
+                        <h5 class="card-title">Bratsche</h5>
+                        <p class="card-text">
+                            Mike Rutledge<br>
+                            <a href="musik@rutledge-blessin.de">musik@rutledge-blessin.de</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

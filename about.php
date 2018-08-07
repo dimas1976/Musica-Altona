@@ -35,10 +35,10 @@ get_header();
     <div class="container pt-3 pb-3">
         <div class="row">
             <div class="col-md-6 pb-3 pb-md-0 text-center">
-                <a href="./vorstand" title="Zur Vorstand-Seite">Hier geht es zur Vorstandseite <i class="fas fa-angle-right"></i></a>
+                <i class="fas fa-arrow-right"></i><a href="./vorstand" title="Zur Vorstand-Seite">Hier geht es zur Vorstandseite</a><i class="fas fa-arrow-left"></i>
             </div>
             <div class="col-md-6 text-center">
-                <a href="./geschichte" title="Zur Geschichte-Seite">Hier geht es zur Geschichteseite <i class="fas fa-angle-right"></i></a>
+                <i class="fas fa-arrow-right"></i><a href="./geschichte" title="Zur Geschichte-Seite">Hier geht es zur Geschichteseite</a><i class="fas fa-arrow-left"></i>
             </div>
         </div>
     </div>

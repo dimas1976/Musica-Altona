@@ -235,6 +235,23 @@ get_header(); ?>
             </div>
         </div>
     </div>
+    <div class="mb-md-2" data-aos="zoom-in">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 order-last order-md-first pt-2 pt-md-5 pb-5 pb-md-3">
+                    <blockquote>
+                        <sup class="pr-2"><i class="fas fa-quote-left"></i></sup>
+                        Musik fördert in einzigartiger Weise das harmonische Zusammenwirken von Körper, Seele und Geist; wie auch das Zusammenleben mit anderen Menschen. Hier langfristig zu wachsen schenkt Musica Altona allen Kindern im Stadtteil.
+                        <sub class="pl-2"><i class="fas fa-quote-right"></i></sub>
+                    </blockquote>
+                    <p>Mike Rutledge</p>
+                </div>
+                <div class="col-md-4">
+                    <img data-src="<?= get_bloginfo("template_url"); ?>/img/dozenten/mike.jpg" class="img-fluid mike lazyload" alt="Mike Rutledge">
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <?php get_footer();?>

@@ -48,7 +48,7 @@ get_header(); ?>
                     </div>
                     <div class="registration-description">
                         <p>
-                            Zur Anmeldung bekommst du dort einen Anmeldebogen (doppelt) oder du lädst ihn dir hier herunter (dann den Anmeldebogen zweimal ausdrucken!). Ein Exemplar davon bekommt Musica Altona e.V. und eines sollten deine Eltern behalten.
+                            Zur Anmeldung bekommst du dort einen Anmeldebogen (doppelt) und dann druckst du ihn zweimal aus. Ein Exemplar davon bekommt Musica Altona e.V. und eines sollten deine Eltern behalten.
                         </p>
                     </div>
                 </article>
@@ -60,7 +60,7 @@ get_header(); ?>
                     </div>
                     <div class="registration-description">
                         <p>
-                            Außerdem gibt es zum Anmeldebogen ein SEPA-Lastschriftmandat. Auch dieses Formular kannst Du hier herunterladen (Erteilung einer SEPA-Basislastschrift). Wenn du dauerhaft mitmachen möchtest, sollen Deine Eltern den Bogen bitte ausfüllen und ebenfalls dem Dozenten zurückgeben.
+                            Außerdem gibt es zum Anmeldebogen ein SEPA-Lastschriftmandat. Wenn du dauerhaft mitmachen möchtest, sollen Deine Eltern den Bogen bitte ausfüllen und ebenfalls dem Dozenten zurückgeben.
                         </p>
                     </div>
                 </article>

@@ -10,11 +10,11 @@ get_header();
     <div id="accordion" class="pt-4 pb-5">
         <div class="card" data-aos="fade-right">
             <div class="card-header" id="headingOne">
-                <h1 class="mb-0">
+                <h5 class="mb-0">
                     <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                         VIDEO
                     </button>
-                </h1>
+                </h5>
             </div>
 
             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
@@ -48,15 +48,10 @@ get_header();
             </div>
             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                 <div class="card-body">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/1.jpg" alt="Junge am Klavier">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/2.jpg" alt="Musikunterricht">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/3.jpg" alt="Mädchen mit der Geige">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/4.jpg" alt="Mädchenchor">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/5.jpg" alt="Mächen mit Sax">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/6.jpg" alt="Junge mit der Gitarre">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/7.jpg" alt="die erste Musica Altona Band 'A.N.D'">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/8.jpg" alt="Trommelunterricht">
-                    <img class="img-fluid lazyload" data-src="img/pinwall/9.jpg" alt="Jungs mit dem Trommel">
+                    <figure>
+                        <img class="img-fluid lazyload" data-src="img/media/gallery/bundespraesidialamt.jpg" alt="Bundespräsident Joachim Gauck zeichnet Patricia Renz und Gino Romero Ramirez mit dem Verdienstkreuz">
+                        <figcaption>4. Oktober 2016 - Bundespräsident Joachim Gauck zeichnet Patricia Renz und <br>Gino Romero Ramirez mit dem Verdienstkreuz am Bande für das interkulturelle Kinder- <br>und Jugendmusikprojekt 'Musica Altona' bei der Ordensverleihung zum Tag der <br>Deutschen Einheit in Schloss Bellevue aus.</figcaption>
+                    </figure>
                 </div>
             </div>
         </div>

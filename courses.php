@@ -257,7 +257,6 @@ get_header(); ?>
     <div class="container lazyload">
         <div class="img-wrapper">
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/1.jpg" alt="Pinwall"></div>
-            <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/2.jpg" alt="Pinwall"></div>
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/3.jpg" alt="Pinwall"></div>
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/4.jpg" alt="Pinwall"></div>
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/5.jpg" alt="Pinwall"></div>
@@ -265,6 +264,7 @@ get_header(); ?>
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/7.jpg" alt="Pinwall"></div>
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/8.jpg" alt="Pinwall"></div>
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/9.jpg" alt="Pinwall"></div>
+            <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/10.jpg" alt="Pinwall"></div>
             <div class="image"><img class="lazyload" data-src="<?= get_bloginfo("template_url"); ?>/img/pinwall/torte.jpg" alt="Pinwall"></div>
         </div>
     </div>

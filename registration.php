@@ -48,7 +48,7 @@ get_header(); ?>
                     </div>
                     <div class="registration-description">
                         <p>
-                            Zur Anmeldung bekommst du dort einen Anmeldebogen (doppelt) und dann druckst du ihn zweimal aus. Ein Exemplar davon bekommt Musica Altona e.V. und eines sollten deine Eltern behalten.
+                            Zur Anmeldung bekommst du dort einen Anmeldebogen (doppelt). Ein Exemplar davon bekommt Musica Altona e.V. und eines sollten deine Eltern behalten.
                         </p>
                     </div>
                 </article>

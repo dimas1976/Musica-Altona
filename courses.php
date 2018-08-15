@@ -240,7 +240,6 @@ get_header(); ?>
                                           <?= get_bloginfo("template_url"); ?>/img/kurse/bratsche/bratsche_348w.jpg 3200w"
                                           sizes="(max-width: 1200px) 1vw, 100vw"
                                           data-src="<?= get_bloginfo("template_url"); ?>/img/kurse/bratsche/bratsche_348w.jpg"  alt="Bratsche-Kurs">
-                    <div class="credit">Foto: &copy; Cem Renkligül</div>
                     <div class="card-body">
                         <h5 class="card-title">Bratsche</h5>
                         <p class="card-text">

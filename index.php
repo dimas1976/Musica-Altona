@@ -75,7 +75,7 @@ get_header();
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 offset-md-2">
+                <div class="col-md-6 col-lg-5 offset-lg-1">
                     <ul>
                         <li>
                             <i class="fas fa-music"></i> Altonaer Tastenspaß am Klavier

@@ -68,17 +68,17 @@ get_header(); ?>
         </div>
     </div>
 </section>
-<!--<div id="registration-download">
+<div id="registration-download">
     <div class="container pt-3 pb-md-5">
         <div class="row">
             <div class="col-md-6"  data-aos="fade-up">
-                <a href="<?/*= get_bloginfo("template_url"); */?>/formulare/Anmeldevertrag_Stand_Juni2014.pdf"><i class="fas fa-download"></i> Anmeldebogen runterladen </a>
+                <a href="<?= get_bloginfo("template_url"); ?>/formulare/anmeldevertrag.pdf" target="_blank"><i class="fas fa-download"></i> Anmeldebogen runterladen </a>
             </div>
             <div class="col-md-6"  data-aos="fade-up">
-                <a href="<?/*= get_bloginfo("template_url"); */?>/formulare/SEPA-Formular_Stand_Juni_2014.pdf"><i class="fas fa-download"></i> Erteilung einer SEPA-Basislastschrift runterladen</a>
+                <a href="<?= get_bloginfo("template_url"); ?>/formulare/sepa.pdf" target="_blank"><i class="fas fa-download"></i> Erteilung einer SEPA-Basislastschrift runterladen</a>
             </div>
         </div>
     </div>
-</div>-->
+</div>
 
 <?php get_footer();?>

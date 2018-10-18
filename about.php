@@ -12,9 +12,37 @@ get_header();
     <div class="container pt-5  pl-4 pr-4 pl-md-3 pr-md-3 pl-lg-0 pr-lg-0 ">
         <div class="row">
             <div class="col-sm-12">
-                <h1 class="pb-3" data-aos="zoom-in">Bewährtes Konzept: Musizieren in der Gruppe macht stark</h1>
+                <h2 class="pb-3" data-aos="zoom-in">Ein vielseitiges Musikprojekt in der Nachbarschaft</h2>
+                <p class="pb-3" data-aos="zoom-in-up">
+                    Der Musica Altona e. V. wurde 2002 von der BürgerStiftung Hamburg zusammen mit
+                    einigen Institutionen und engagierten Musikern in Altona-Altstadt initiiert, um Kindern und
+                    Jugendlichen in einem interkulturellen Rahmen das Musizieren zu ermöglichen.
+                    So entstand ein vielschichtiges musikalisches Angebot, das in Gruppen stattfindet,
+                    wohnortnah und auch für Familien mit geringerem Einkommen erschwinglich ist.
+                    Auf diesem Weg werden auch diejenigen gefördert, die erschwerte Zugangsmöglichkeiten
+                    zu Musikinstrumenten haben, Interesse und Talent jedoch mitbringen. Musica Altona
+                    versteht sich zudem als Plattform des sozialen und künstlerischen Austausches in einer
+                    multikulturellen Stadt, die eine weltoffene Persönlichkeitsbildung der Einzelnen unterstützt.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="pb-3" data-aos="zoom-in">Bewährtes Konzept: Musizieren in der Gruppe macht stark</h2>
                 <p class="pb-3" data-aos="zoom-in-up">
                     Mit dem 'Rollenden Musikkoffer', der ganzjährig durch die Kitas des Stadtteils zieht, erleben die ganz Kleinen ein lebendiges Programm der musikalischen Früherziehung. Bereits hier wird das Prinzip des Gruppenunterrichts gepflegt, der sich dann für Kinder ab dem ersten Schuljahr in den Instrumental- und natürlich auch Orchestergruppen fortsetzt. Unter der Leitung von erfahrenen Dozenten und Musikpädagogen treffen sich die SchülerInnen in Altonaer Schulen und anderen Einrichtungen. Auf einen einzigen Musikstil müssen sich die inzwischen über 300 NachwuchsmusikerInnen nicht festlegen, denn bei        Musica Altona wird in verschiedenen Gruppen »crossover« musiziert : von Schlagzeug, Blasinstrumenten, Klavier, Keyboard, afrikanischen Trommeln über, Saz und Gitarre bis zur klassischen Geige und Cello.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="pb-3" data-aos="zoom-in">zu guter Letzt</h2>
+                <p class="pb-3" data-aos="zoom-in-up">
+                    Seit über 15 Jahren ist der große und von Herzen kommende Einsatz aller Beteiligten
+                    bezeichnend für Musica Altona.
+                    Die Kursgebühren sind moderat und die Organisation schlank. So wird es jungen
+                    Menschen ermöglicht - auch denjenigen, die neu in der Stadt sind - einen leichteren
+                    Zugang zu ihrem Stadtteil und zu anderen Jugendlichen zu finden.
                 </p>
                 <a class="btn btn-primary" href="./unsere-kurse/" role="button" data-aos="fade-right">ZU DEN KURSEN</a>
             </div>

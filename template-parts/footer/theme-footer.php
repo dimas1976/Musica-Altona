@@ -54,7 +54,7 @@
         </div>
     </div>
 </footer>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.0.4/lazysizes.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.0.4/plugins/unveilhooks/ls.unveilhooks.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js"></script>
